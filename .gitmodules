@@ -1,0 +1,3 @@
+[submodule "c_media_wiki_compiler"]
+	path = c_media_wiki_compiler
+	url = git@github.com:AydenRobert/c_media_wiki_compiler.git
